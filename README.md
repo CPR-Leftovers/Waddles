@@ -32,7 +32,8 @@ $ sudo docker-compose up
 
 | Operating System | Version | Is it supported?      
 | ---------------- | ------- | ------------------
-| Ubuntu           | 14.04   | 🟢     
-|                  | 16.04   | 🟢  
+| Ubuntu           | 14.04   | ❓     
+|                  | 16.04   | ❓  
 |                  | 18.04   | 🟢 
 |                  | 20.04   | 🟢
+|                  | 22.04   | 🟢
