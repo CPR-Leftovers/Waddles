@@ -23,17 +23,14 @@ $ git clone --recurse-submodules https://github.com/CPR-Leftovers/Waddles && cd 
 $ nano .env
 ```
 
-**Step 4** Start the services
+**Step 4** Add your Servers IP Address.
+```bash
+$ nano servers.xml
+```
+
+**Step 5** Start the services
 ```bash
 $ sudo docker-compose up
 ```
 
-**Step 5** You're done!
-
-| Operating System | Version | Is it supported?      
-| ---------------- | ------- | ------------------
-| Ubuntu           | 14.04   | ❓     
-|                  | 16.04   | ❓  
-|                  | 18.04   | 🟢 
-|                  | 20.04   | 🟢
-|                  | 22.04   | 🟢
+**Step 6** You're done!
