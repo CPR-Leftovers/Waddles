@@ -1,4 +1,4 @@
-# Waddles
+# Waddles - 🐧
 
 Waddles makes it easy to configure dash, houdini and a host a AS3 CPPS.
 
@@ -29,3 +29,10 @@ $ sudo docker-compose up
 ```
 
 **Step 5** You're done!
+
+| Operating System | Version | Is it supported?      
+| ---------------- | ------- | ------------------
+| Ubuntu           | 14.04   | 🟢     
+|                  | 16.04   | 🟢  
+|                  | 18.04   | 🟢 
+|                  | 20.04   | 🟢
