@@ -23,7 +23,7 @@ $ git clone --recurse-submodules https://github.com/CPR-Leftovers/Waddles && cd 
 $ nano .env
 ```
 
-**Step 4** Add your Servers IP Address.
+**Step 4** Add your servers IP Address
 ```bash
 $ nano servers.xml
 ```
