@@ -1,6 +1,6 @@
-# wand
+# Waddles
 
-Wand makes it easy to configure dash, houdini and a media server.
+Waddles makes it easy to configure dash, houdini and a host a AS3 CPPS.
 
 ## Basic setup
 
@@ -15,7 +15,7 @@ $ sudo chmod +x /usr/local/bin/docker-compose
 
 **Step 2** Clone the repository & submodules
 ```bash
-$ git clone --recurse-submodules https://github.com/solero/wand && cd wand
+$ git clone --recurse-submodules https://github.com/CPR-Leftovers/Waddles && cd Waddles
 ```
 
 **Step 3** Edit the config file
